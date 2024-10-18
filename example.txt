@@ -1,4 +1,0 @@
-Data Cleaning and Preparation
-Data Wrangling
-Data Visualization
-Timeseries
